@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DSA4Fun/obj
+/DSA4Fun/bin/Debug/net7.0
+/DSA4Fun/.vs/DSA4Fun
